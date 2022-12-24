@@ -1,6 +1,6 @@
 FROM node:16-alpine
 
-WORKDIR /gui
+WORKDIR /eriboose/frontend
 
 COPY package*.json ./
 
